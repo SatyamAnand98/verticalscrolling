@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/verticalscrolling/static/css/main.a9274c44.chunk.css",
+    "main.js": "/verticalscrolling/static/js/main.0b63ce7c.chunk.js",
+    "main.js.map": "/verticalscrolling/static/js/main.0b63ce7c.chunk.js.map",
+    "runtime-main.js": "/verticalscrolling/static/js/runtime-main.6b28c959.js",
+    "runtime-main.js.map": "/verticalscrolling/static/js/runtime-main.6b28c959.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/verticalscrolling/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.65408416.chunk.js": "/verticalscrolling/static/js/2.65408416.chunk.js",
+    "static/js/2.65408416.chunk.js.map": "/verticalscrolling/static/js/2.65408416.chunk.js.map",
+    "index.html": "/verticalscrolling/index.html",
+    "precache-manifest.0e7f774c09ffe85e453c8a8aa54b440c.js": "/verticalscrolling/precache-manifest.0e7f774c09ffe85e453c8a8aa54b440c.js",
+    "service-worker.js": "/verticalscrolling/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/verticalscrolling/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.a9274c44.chunk.css.map": "/verticalscrolling/static/css/main.a9274c44.chunk.css.map",
+    "static/js/2.65408416.chunk.js.LICENSE.txt": "/verticalscrolling/static/js/2.65408416.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/verticalscrolling/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b28c959.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.65408416.chunk.js",
+    "static/css/main.a9274c44.chunk.css",
+    "static/js/main.0b63ce7c.chunk.js"
+  ]
+}
